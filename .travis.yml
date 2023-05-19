@@ -5,9 +5,12 @@ before_install:
 
 jdk:
   -oraclejdk17
+<<<<<<< HEAD
 
 #deploy:
 #  provider: heroku
 #  api_key:
 #    secure: $HEROKU_TOKEN
 #  app: "book-demo-store"
+=======
+>>>>>>> 50e2f9994d1bb857daad3ffe49c645e9c4d8f630
