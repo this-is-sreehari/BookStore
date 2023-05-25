@@ -1,0 +1,1 @@
+insert into book(id,title,description,release_year) values('b5607d38-8fc1-43ef-b44e-34967083c80a','Why Iam A Hindu','A book on religious politics',2018)
